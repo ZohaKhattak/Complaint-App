@@ -2,7 +2,7 @@
 
 ## Main Screen
 
-<img src= "https://user-images.githubusercontent.com/57323600/119795632-16464880-bef2-11eb-9b5d-4eddb8922472.jpeg" widht="100" height="20">
+<img src= "https://user-images.githubusercontent.com/57323600/119795632-16464880-bef2-11eb-9b5d-4eddb8922472.jpeg" widht="200" height="200">
 
 
 #### ![WhatsApp Image 2021-05-27 at 1 33 28 PM](https://user-images.githubusercontent.com/57323600/119795632-16464880-bef2-11eb-9b5d-4eddb8922472.jpeg)
